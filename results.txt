@@ -1,0 +1,4 @@
+[1] Action potential: peak 39.1 mV at 7.51 ms; minimum after spike -76.2 mV; width at half amplitude 1.45 ms; threshold for a 1 ms pulse about 6.96 uA/cm^2; peak g_Na 31.4, peak g_K 12.5 mS/cm^2
+[2] f-I curve: lowest current with sustained firing (step 1 uA/cm^2): 7 uA/cm^2; 5: 0 Hz; 8: 62 Hz; 10: 70 Hz; 15: 80 Hz; 20: 88 Hz
+[3] Refractory period: no second spike for intervals up to 5 ms even with 500 uA/cm^2; shortest interval with a second spike: 6 ms; threshold at 25 ms: 7.32 uA/cm^2; 8 ms: 62.5; 10 ms: 30.8; 15 ms: 9.3; 25 ms: 7.3
+[4] Channel blockers (20 uA/cm^2, 1 ms pulse): g_Na x 1: peak 40.5 mV; g_Na x 0.5: peak 27.8 mV; g_Na x 0.3: peak -2.2 mV; g_Na x 0.1: peak -51.3 mV; g_K x 1: peak 40.5 mV, width 1.48 ms; g_K x 0.5: peak 43.3 mV, width 1.82 ms; g_K x 0.1: peak 47.9 mV, width 3.21 ms
